@@ -250,7 +250,6 @@ use mouse right click to toggle mute"""
             return(playlist[0])
         else:
             print("error getting stream url")
-            self.lbl.set_text("error getting stream url")
 
     def stop_playing(self, *args):
         self.player.set_state(Gst.State.NULL)
