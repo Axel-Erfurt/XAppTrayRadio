@@ -1,0 +1,157 @@
+-- News --
+MDR Aktuell,http://mdr-284340-0.cast.mdr.de/mdr/284340/0/mp3/low/stream.mp3
+Deutschlandfunk Nachrichten,http://ondemand-mp3.dradio.de/file/dradio/nachrichten/nachrichten.mp3
+B5 Aktuell,https://streams.br.de/b5aktuell_2.m3u
+-- Radio BOB --
+Event 100,http://streams.radiobob.de/100/mp3-128/streams.radiobob.de/
+Event 101,http://streams.radiobob.de/101/mp3-128/streams.radiobob.de/
+Sothern Rock,https://bob.hoerradar.de/radiobob-southernrock-mp3-hq
+80er Rock,http://streams.radiobob.de/bob-80srock/mp3-128/streams.radiobob.de/
+90er Rock,http://streams.radiobob.de/bob-90srock/mp3-128/streams.radiobob.de/
+AC/DC Collection,http://streams.radiobob.de/bob-acdc/mp3-128/streams.radiobob.de/
+Alternative Rock,http://streams.radiobob.de/bob-alternative/mp3-128/streams.radiobob.de/
+Best of Rock,http://streams.radiobob.de/bob-bestofrock/mp3-128/streams.radiobob.de/
+Chillout Unplugged,http://streams.radiobob.de/bob-chillout/mp3-128/streams.radiobob.de/
+Christmas Rock,http://streams.radiobob.de/bob-christmas/mp3-128/streams.radiobob.de/
+Classic Rock,http://streams.radiobob.de/bob-classicrock/mp3-192/streams.radiobob.de/
+Deutsch Rock,http://streams.radiobob.de/bob-deutsch/mp3-128/streams.radiobob.de/
+Festival-Stream,http://streams.radiobob.de/bob-festival/mp3-128/streams.radiobob.de/
+Grunge,http://streams.radiobob.de/bob-grunge/mp3-128/streams.radiobob.de/
+Hardrock,http://streams.radiobob.de/bob-hardrock/mp3-128/streams.radiobob.de/
+Harte Saite,http://streams.radiobob.de/bob-hartesaite/mp3-128/streams.radiobob.de/
+Kuschelrock,http://streams.radiobob.de/bob-kuschelrock/mp3-128/streams.radiobob.de/
+Metal,http://streams.radiobob.de/bob-metal/mp3-128/streams.radiobob.de/
+National,http://streams.radiobob.de/bob-national/mp3-128/streams.radiobob.de/
+Punk,http://streams.radiobob.de/bob-punk/mp3-128/streams.radiobob.de/
+Queen,http://streams.radiobob.de/bob-queen/mp3-128/streams.radiobob.de/
+Rockabilly,http://streams.radiobob.de/bob-rockabilly/mp3-128/streams.radiobob.de/
+Rock Hits,http://streams.radiobob.de/bob-rockhits/mp3-128/streams.radiobob.de/
+BOB! rockt Schleswig-Holstein,http://streams.radiobob.de/bob-shlive/mp3-128/streams.radiobob.de/
+Singer & Songwriter,http://streams.radiobob.de/bob-singersong/mp3-128/streams.radiobob.de/
+Wacken Nonstop,http://streams.radiobob.de/bob-wacken/mp3-128/streams.radiobob.de/
+BossHoss Rockshow,http://streams.radiobob.de/bosshoss/mp3-128/streams.radiobob.de/
+Death Metal,http://streams.radiobob.de/deathmetal/mp3-128/streams.radiobob.de/
+Fury in the Slaughterhouse,http://streams.radiobob.de/fury/mp3-128/streams.radiobob.de/
+Gothic Rock,http://streams.radiobob.de/gothic/mp3-128/streams.radiobob.de/
+Metalcore,http://streams.radiobob.de/metalcore/mp3-128/streams.radiobob.de/
+Metallica,http://streams.radiobob.de/metallica/mp3-128/streams.radiobob.de/
+Mittelalter Rock,http://streams.radiobob.de/mittelalter/mp3-128/streams.radiobob.de/
+Newcomer,http://streams.radiobob.de/newcomer/mp3-128/streams.radiobob.de/
+Dunkle Parabel Ritter,http://streams.radiobob.de/ritter/mp3-128/streams.radiobob.de/
+Rockparty,http://streams.radiobob.de/rockparty/mp3-128/streams.radiobob.de/
+Tobias Sammet,http://streams.radiobob.de/sammet/mp3-128/streams.radiobob.de/
+Southern Rock,http://streams.radiobob.de/southernrock/mp3-128/streams.radiobob.de/
+Symphonic Metal,http://streams.radiobob.de/symphmetal/mp3-128/streams.radiobob.de/
+Livestream,http://streams.radiobob.de/bob-live/mp3-128/streams.radiobob.de/
+-- Bluegrass --
+Bluegrass,http://199.180.72.2:8607/
+Abiding Radio Bluegrass Hymns,http://streams.abidingradio.org:7840/1
+WAMU's Bluegrass Country,http://ice24.securenetsystems.net/WAMU2
+-- Folk --
+WNIS "News Talk 790" Norfolk  VA,http://provisioning.streamtheworld.com/pls/WNISAMAAC.pls
+Bob Dylan,http://listen.57fm.com/stream/3/
+European Hit Radio - Acoustic,http://stream.europeanhitradio.com:8000/Stream_18.aac
+Hit Radio FFH - Acoustic Hits,http://streams.ffh.de/ffhchannels/aac/acoustichits.aac
+Acoustic Output,http://listen.57fm.com/acop
+The Acoustic Outpost,http://listen1.outpostradio.com/acop
+Folk Rock,http://79.111.14.76:9097/
+RPR1 Acoustic,http://streams.rpr1.de/rpr-acoustic-128-mp3
+Acoustic FM,http://listen.radionomy.com/acoustic-fm
+WUMB Contemporary Folk Stream - Boston  MA,http://wumb.streamguys1.com/wumb919cf-aac
+-- Lokal --
+Welle Nord,http://www.ndr.de/resources/metadaten/audio/m3u/ndr1wellenord_ki.m3u
+Antenne Thüringen,http://stream.antennethueringen.de/live/mp3-128/
+Landeswelle Thüringen,http://stream.landeswelle.de/lwt/mp3-128/web/stream.mp3
+Radio F.R.E.I.,http://streaming.fueralle.org:8000/Radio-F.R.E.I
+Landeswelle Thüringen - Schlagerwelle,http://stream.landeswelle.de/lwsw/mp3-192
+Deutschlandfunk Nova,https://st03.sslstream.dlf.de/dlf/03/128/mp3/stream.mp3
+-- Oldies --
+R.SA Beatles Stream,http://streams.rsa-sachsen.de/rsa-beatles/mp3-192/mediaplayerrsa
+Swinging Radio England.UK,http://listen.radionomy.com/swingingradioengland3
+Flower Power Radio,http://50.7.129.122:8433/stream
+TBN - Oldies Rock N Roll,http://rosetta.shoutca.st:9431/stream
+TOP FM oldies,http://live.topfm.hu:8000/oldies.mp3
+WQBT The Beat,https://c5.prod.playlists.ihrhls.com/805/playlist.m3u8
+The Beat,http://stream.thebeat.no/beat128.mp3
+Exclusively Beatles,http://stream.radiojar.com/kykfyu1bexquv
+181.FM - Beatles,http://www.181.fm/stream/pls/181-beatles.pls
+Rock Max - Oldies,http://212.111.2.151:8000/rm_old_176.ogg
+Antenne TH. YESTERHITS,https://stream.antennethueringen.de/yesterhits/mp3-192/
+Radio Eisenherz,http://1a-60er.radionetz.de/1a-60er.mp3
+Antenne Bayern Oldies,http://mp3channels.webradio.antenne.de/oldies-but-goldies
+R.SA Oldie-Club,http://streams.rsa-sachsen.de/rsa-oldies/mp3-192/mediaplayerrsa
+60er Radio,http://1a-60er.radionetz.de/1a-60er.mp3
+70er Radio,http://1a-70er.radionetz.de:8000/1a-70er.mp3
+Non Stop 60s,http://listen.011fm.com:8004/stream03
+Landeswelle Thr Oldies,http://stream.landeswelle.de/lwol/mp3-192/web
+British Sixties Radio,http://streaming.radionomy.com/JamendoLounge
+RTL 60er & 70er,http://rtlberlin.hoerradar.de/rtlberlin-60er70er-mp3-128?sABC=5q1o0q1n%230%23o000r827s931po57p4q48q3377r73615%23enqvb-oebjfre.vasb&amsparams=playerid:radio-browser.info;skey:1562053914
+Vintage Radio,https://vintageradio.ice.infomaniak.ch/vintageradio-high.mp3
+57 Chevy Logs Songs,http://listen.57fm.com/fgrock
+SomaFM: Left Coast 70s,http://ice1.somafm.com/seventies-128-mp3
+Always Elvis Radio,http://netradio.radioalfa.dk/alwayselvisradio
+R101 '70,http://icy.unitedradio.it/R10170.aac
+radio SAW - 70er,http://saw-de-hz-fal-stream09-cluster01.radiohost.de:80/saw-70er_128
+Rouge FM 70s,http://rouge-70s.ice.infomaniak.ch/rouge-70s-128.mp3
+San Francisco's 70's HITS!,http://198.178.123.17:10922/;
+-- Classic Rock --
+Feel Good Rock,https://listen1.outpostradio.com/fgrock
+Antenne Bayern - Classic Rock Live (MP3),http://mp3channels.webradio.antenne.de/classic-rock-live
+Zenith Classic Rock [MP3],http://148.163.81.10:8006/listen.pls
+Led Zeppelin,http://stream3.polskieradio.pl:8068
+Antenne Thr Rock,https://stream.antennethueringen.de/rock/mp3-192/web/
+R.SA Rockzirkus,http://streams.rsa-sachsen.de/rsa-rockzirkus/mp3-192/mediaplayerrsa
+Radio21 – Classic-Rock,http://188.94.97.91/radio21.mp3
+NDR 2 Soundcheck Milestones,http://ndr-loop-16.cast.addradio.de/ndr/loop/16/mp3/128/stream.mp3
+Classic Rock Radio,https://internetradio.salue.de:8443/classicrock.mp3
+Queen Radio,http://ic7.101.ru:8000/a54
+Deep Purple Radio,http://ic7.101.ru:8000/a125
+Rolling Stones Radio,http://icy.unitedradio.it/VirginSpecialEvent.mp3
+AC/DC Radio Blob,http://streams.radiobob.de/bob-acdc/mp3-128/streams.radiobob.de/
+Radio Bob Classic Rock,http://streams.radiobob.de/bob-classicrock/mp3-128/streams.radiobob.de/
+Radio Bob Kuschel Rock,http://streams.radiobob.de/bob-kuschelrock/mp3-128/streams.radiobob.de/
+MDR SPUTNIK Rock-Channel,http://mdr-284331-1.cast.mdr.de/mdr/284331/1/mp3/high/stream.mp3
+MDR JUMP Rock-Channel,http://mdr-284321-1.cast.mdr.de/mdr/284321/1/mp3/high/stream.mp3
+Radio Hamlar,http://radiohamlar.stream.laut.fm/radiohamlar?pl=m3u&t302=2018-08-27_17-40-49&uuid=79e0126a-6db8-42a9-9d1c-a164ecdbd514
+-- Alternativ --
+Chante France 60's,http://stream.chantefrance.com/cf-60
+FREI,http://streaming.fueralle.org:8000/Radio-F.R.E.I
+Rust Radio,http://rustradio.org:8000
+Das Radio der von Neil Young Getöteten,http://streamplus3.leonex.de:11216/
+R.SA Ostrock Stream,http://streams.rsa-sachsen.de/rsa-ostrock/mp3-192/mediaplayerrsa
+-- Unplugged --
+delta radio - Unplugged,http://streams.deltaradio.de/delta-unplugged/mp3-192
+Radio Bob! chillout-unplugged,http://streams.radiobob.de/bob-chillout/mp3-192/
+Radio Regenbogen - Unplugged,http://streams.regenbogen.de/rr-unplugged-128-mp3
+Hit Radio FFH - Acoustic Hits,http://streams.ffh.de/ffhchannels/mp3/acoustichits.mp3
+-- SoftRock --
+Antenne Bayern - Lovesongs,http://www.antenne.de/webradio/channels/lovesongs.m3u
+Virgin Radio Rock Ballads,http://icy.unitedradio.it/Virgin_06.mp3
+America's Best Ballads Radio,http://strm112.1.fm/onelive_mobile_mp3
+-- Schlager --
+SchlagerPlanet - 100% Roland Kaiser,http://streams.schlagerplanetradio.com/kaiser/mp3-192
+Ü30-Partyradio Schlager,http://stream.ue30partyradio.de:18000/;
+MDR Schlagerwelt Thüringen,http://avw.mdr.de/streams/990601-0_mp3_high.m3u
+-- Hits --
+Virgin Radio Rock Hits,http://icy.unitedradio.it/VirginRockHits.mp3
+WNOX 93.1 Classic Hits,http://provisioning.streamtheworld.com/pls/WNOXFMAAC.pls
+Classic Hits & True Oldies,http://ice10.securenetsystems.net/WDBG
+SuperHits 103.7,http://crystalout.surfernetwork.com:8001/WCSY-FM_MP3
+-- Exclusive Radio --
+James Taylor,http://streaming.exclusive.radio/er/jamestaylor/icecast.audio
+Johnny Cash,http://streaming.exclusive.radio/er/johnnycash/icecast.audio
+Tom Petty,http://streaming.exclusive.radio/er/tompetty/icecast.audio
+Deep Purple,http://streaming.exclusive.radio/er/deeppurple/icecast.audio
+Garth Brooks,http://streaming.exclusive.radio/er/garthbrooks/icecast.audio
+George Strait,http://streaming.exclusive.radio/er/georgestrait/icecast.audio
+Kenny Rogers,http://streaming.exclusive.radio/er/kennyrogers/icecast.audio
+The Kinks,http://streaming.exclusive.radio/er/thekinks/icecast.audio
+Crowded House,http://streaming.exclusive.radio/er/crowdedhouse/icecast.audio
+Cat Stevens,http://streaming.exclusive.radio/er/catstevens/icecast.audio
+Electric Light Orchestra,http://streaming.exclusive.radio/er/elo/icecast.audio
+Michael Buble,http://streaming.exclusive.radio/er/michaelbuble/icecast.audio
+Country,http://streaming.exclusive.radio/er/country/icecast.audio
+Easy,http://streaming.exclusive.radio/er/easy/icecast.audio
+Soft Rock,http://streaming.exclusive.radio/er/softrock/icecast.audio
+The Beatles,http://streaming.exclusive.radio/er/beatles/icecast.audio
+The Rolling Stones,http://streaming.exclusive.radio/er/rollingstones/icecast.audio
