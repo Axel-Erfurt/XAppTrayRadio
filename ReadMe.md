@@ -1,17 +1,17 @@
-#XAppTrayRadio
+# XAppTrayRadio
 
 a simple Tray Radio in python3 Gtk3 for Linux Mint
 
-##Requirements
+## Requirements
 - python3
 - Gtk3
 - XApp
 
-##Tray Icon:
+## Tray Icon:
 - use mouse wheel to change volume
 - use mouse right click to toggle mute
 
-##Channels List
+## Channels List
 
 *use this format in channels.txt:*
 
@@ -22,6 +22,6 @@ Channel Name,URL
 Channel Name,URL
 ```
 
-##Usage
+## Usage
 
 ```python3 /path/to/XAppTrayRadio.py```
