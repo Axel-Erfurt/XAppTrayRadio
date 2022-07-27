@@ -305,7 +305,7 @@ use mouse right click to toggle mute"""
     def read_settings(self, *args):
         print("reading settings")
         parser = ConfigParser()
-        confFile = "settings.conf"
+        confFile = path.join(self.cwd, "settings.conf")
         if path.exists(confFile):
             parser.read(confFile)            
             self.volume = float(parser.get('Preferences', 'radio_volume'))
@@ -320,7 +320,7 @@ use mouse right click to toggle mute"""
             
     def write_settings(self):
         print("writing settings")
-        confFile = "settings.conf"
+        confFile = path.join(self.cwd, "settings.conf")
         config = ConfigParser()
         config.add_section('Preferences')
         config.set('Preferences', 'radio_volume', str(self.slider.get_value()))
